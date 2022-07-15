@@ -1,8 +1,8 @@
 # MY PORTFOLIO
 
-<p>
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" /> Hello! There My name is `Sheeraz Khan` and I am __22__ years old.
 
+<p>
 <br>
 <a href= "https://www.pinterest.com/leme_sherry"> <img src="https://user-images.githubusercontent.com/84338798/146195052-d497b5c9-0f2e-46ea-8616-42f303b63841.png" width="100" />
 
