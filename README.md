@@ -1,6 +1,6 @@
 # MY PORTFOLIO
 
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" /> Hello! There My name is `Sheeraz Khan` and I am __21__ years old.<a href= "https://www.pinterest.com/leme_sherry"> <img src="https://user-images.githubusercontent.com/84338798/146195052-d497b5c9-0f2e-46ea-8616-42f303b63841.png" width="100" />
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" /> Hello! There My name is `Sheeraz Khan` and I am __22__ years old.<a href= "https://www.pinterest.com/leme_sherry"> <img src="https://user-images.githubusercontent.com/84338798/146195052-d497b5c9-0f2e-46ea-8616-42f303b63841.png" width="100" />
 
 <p align="center">
 <a href= "https://www.github.com/lemesherry"> <img src="https://camo.githubusercontent.com/72d61c65a0fdf8444f4f889345e7718682bd858cef9dfba9d56b5e0e9e2ce975/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5a65726f446973636f726426636f6c6f723d726564" width="140" height="22" />
