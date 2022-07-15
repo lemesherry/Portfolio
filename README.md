@@ -41,9 +41,9 @@
 ##### My Interests:
 
  > * Constantly learning and improving my self.
- > * Learning new programming languages and try to build a program in that language.
+ > * Learning and getting up to date with new technology /programming paradigms /features etcetera.
  > * Messing around with linux :P
- > * Explore more in unity and other APIs that I have used ( i.e. Youtube, Spotify, Discord ).
+ > * Exploring more & more unity features and other APIs that I have used ( i.e. Youtube, Spotify, Discord ).
 
 ---
 
