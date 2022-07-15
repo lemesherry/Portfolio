@@ -32,12 +32,9 @@
 
 ##### Programming languages that I know are:
 
+  * C#
   * JavaScript (Node)
   * C++
-  * C#
-  * HTML
-  * CSS
-  * PHP
  
 ---
 
